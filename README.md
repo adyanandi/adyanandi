@@ -21,7 +21,7 @@ I’m also an NCC cadet, which keeps me on my toes with a bit of discipline and 
   <a href="https://www.instagram.com/adyxaa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/adya-nandi-a5479b301/" target="_blank">
+  <a href="https://www.linkedin.com/in/adya-nandi-592398284/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
